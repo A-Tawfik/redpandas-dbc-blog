@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# redpandas-dbc-blog
+>>>>>>> 9eab164d0b22aaf9457dbbbde9a3c9d4f3f6f2b1
